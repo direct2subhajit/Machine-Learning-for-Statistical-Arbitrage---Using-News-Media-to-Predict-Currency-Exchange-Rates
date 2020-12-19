@@ -1,6 +1,4 @@
-# Author: Mohammed Furqan Rahamath
-# Last updated: 21 March 2020
-# 
+ 
 # Purpose: Fetch the articles content for corresponding meta-data
 
 import multiprocessing as mp
