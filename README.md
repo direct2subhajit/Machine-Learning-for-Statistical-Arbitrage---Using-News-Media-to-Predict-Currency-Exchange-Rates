@@ -43,6 +43,9 @@ We explore the application of Machine Learning for predicting bilateral Foreign 
 <img src="https://github.com/Technocolabs100/Machine-Learning-for-Statistical-Arbitrage-Using-News-Media-to-Predict-Currency-Exchange-Rates/blob/main/models/Workflow-Design.jpg" >
 
 <h3>Result</h3>
+<img src="https://github.com/Technocolabs100/Machine-Learning-for-Statistical-Arbitrage-Using-News-Media-to-Predict-Currency-Exchange-Rates/blob/main/Output%20Images/Model-error.jpg" >
+<img src="https://github.com/Technocolabs100/Machine-Learning-for-Statistical-Arbitrage-Using-News-Media-to-Predict-Currency-Exchange-Rates/blob/main/Output%20Images/Feature-Importance.jpg" >
+<img src="https://github.com/Technocolabs100/Machine-Learning-for-Statistical-Arbitrage-Using-News-Media-to-Predict-Currency-Exchange-Rates/blob/main/Output%20Images/Avg-prediction-error.jpg" >
 
 <h3><a href="https://currencyrates-final-ummeathiya.herokuapp.com/">Deployment Link</a></h3>
 
