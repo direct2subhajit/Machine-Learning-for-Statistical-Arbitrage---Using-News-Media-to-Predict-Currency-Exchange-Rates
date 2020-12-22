@@ -39,6 +39,9 @@ We explore the application of Machine Learning for predicting bilateral Foreign 
   <li>Deployment</li>
 </ol>
 
+<h3>Design(Workflow)</h3>
 
-Deployment Link
-https://currencyrates-final-ummeathiya.herokuapp.com/
+
+<h3><a href="https://currencyrates-final-ummeathiya.herokuapp.com/">Deployment Link</a></h3>
+
+![alt text](https://github.com/Technocolabs100/Machine-Learning-for-Statistical-Arbitrage-Using-News-Media-to-Predict-Currency-Exchange-Rates/blob/main/Deployment/screencapture-currencyrates-final-ummeathiya-herokuapp-FER-2020-12-22-16_40_51.jpg?raw=true)
