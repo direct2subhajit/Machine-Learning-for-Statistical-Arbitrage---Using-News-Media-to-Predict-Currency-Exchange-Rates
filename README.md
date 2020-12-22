@@ -7,13 +7,12 @@ We explore the application of Machine Learning for predicting bilateral Foreign 
 We explore the application of Machine Learning for predicting bilateral Foreign Exchange Rates utilizing the sentiment from news articles and prominent macroeconomic indicators.
 
 <h3>Source</h3>
-<ul>
-<a href="https://developer.nytimes.com">1.New York Times API for Articles</a>
-<a href="https://data.oecd.org/conversion/purchasing-power-parities-ppp.htm">2.PPP - Purchasing Power Parities Dataset</a>
-<a href="https://data.oecd.org/price/inflation-cpi.htm">3.Inflation Rates data</a>
-<a href="https://data.worldbank.org/indicator/pa.nus.fcrf">4.Foreign Exchange Rates</a>
-<a href="https://data.oecd.org/gdp/gross-domestic-product-gdp.htm">5.GDP - Gross Domestic Product</a>
-</ul>
+<a href="https://developer.nytimes.com">1.New York Times API for Articles</a><br>
+<a href="https://data.oecd.org/conversion/purchasing-power-parities-ppp.htm">2.PPP - Purchasing Power Parities Dataset</a><br>
+<a href="https://data.oecd.org/price/inflation-cpi.htm">3.Inflation Rates data</a><br>
+<a href="https://data.worldbank.org/indicator/pa.nus.fcrf">4.Foreign Exchange Rates</a><br>
+<a href="https://data.oecd.org/gdp/gross-domestic-product-gdp.htm">5.GDP - Gross Domestic Product</a><br>
+
 
 
 
