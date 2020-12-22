@@ -8,5 +8,9 @@ We explore the application of Machine Learning for predicting bilateral Foreign 
 
 <h3>Source</h3>
 <a href="https://developer.nytimes.com">1.New York Times API for Articles</a>
+
+
+
+
 Deployment Link
 https://currencyrates-final-ummeathiya.herokuapp.com/
