@@ -20,7 +20,24 @@ We explore the application of Machine Learning for predicting bilateral Foreign 
 <a href="https://data.worldbank.org/indicator/pa.nus.fcrf">4.Foreign Exchange Rates</a><br>
 <a href="https://data.oecd.org/gdp/gross-domestic-product-gdp.htm">5.GDP - Gross Domestic Product</a><br>
 
-
+<h3>Steps of Proposed System</h3>
+<ol>
+  <li>Information Gathering</li>
+  <li>Planning</li>
+     <ul>
+       <li>Exploratory Data Analysis.</li>
+       <li>Modelling.</li>
+       <li>Performance of Model.</li>
+       <li>Model Comparison.</li>
+       <li>Feature Importance.</li>
+       <li>Dicussion</li>
+       <li>Conclusion & Future Enhancement</li>
+     </ul>
+  <li>Design</li>
+  <li>Implementation</li>
+  <li>Results</li>
+  <li>Deployment</li>
+</ol>
 
 
 Deployment Link
