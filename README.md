@@ -39,7 +39,7 @@ We explore the application of Machine Learning for predicting bilateral Foreign 
   <li>Deployment</li>
 </ol>
 
-<h3>Design(Workflow)</h3>
+<h3>Design</h3>
 
 
 <h3><a href="https://currencyrates-final-ummeathiya.herokuapp.com/">Deployment Link</a></h3>
